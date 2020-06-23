@@ -3,3 +3,143 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Navbar Section */
+
+.navbar {
+    padding-left: 18rem;
+    padding-right: 18rem;
+}
+
+/* .hamburger-menu {
+    font-size: 0rem;
+} */
+
+.btn-search {
+    margin-right: 2rem;
+}
+
+.login-button {
+    margin-right: 1rem;
+}
+
+.bi-chevron-down {
+    float: right;
+}
+
+.btn-cart {
+    margin-bottom: 1rem;
+}
+
+/* About Us Section */
+.about-us {
+    text-align: center;
+    padding: 2rem 10rem 2rem;
+}
+
+/* Our Services */
+.our-services {
+    text-align: center;
+    padding: 2rem 10rem 2rem;
+}
+
+/* Team Container */
+
+.team-section {
+    text-align: center;
+}
+
+.team-label {
+    color: #3655B3;
+    font-weight: 600;
+}
+
+/* .team-heading {
+    display: inline-block;
+} */
+
+.team-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 1em;
+    padding: 2rem 10rem 2rem;
+}
+
+
+/* Shop & Go Section */
+.shop-and-go {
+    background-color: #3655B3;
+}
+
+.shop-and-go-heading, .sub-heading {
+    padding-top: 2rem;
+}
+
+.shop-and-go-heading, .text-content {
+    text-align: center;
+    color: #C9C8C8;
+}
+
+
+/* Sub Links */
+.sub-link {
+    border-top: 1px solid #C9C8C8;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1em;
+    padding: 2rem 10rem 2rem;
+}
+
+.trusted-brands {
+    text-align: center;
+    color: #fff;
+}
+
+.sub-heading {
+    color: #fff;
+}
+
+.suzi, .gonia, .selin, .konia, .luzi, .paln {
+    color: #C9C8C8;
+    
+}
+
+.list-unstyled {
+    color: #C9C8C8;
+}
+
+.suzi, .luzi, .gonia, .konia, .selin, .paln {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.suzi, .luzi {
+    font-family: "Original Surfer";
+    font-size: 2rem;;
+    font-weight: 900;
+}
+
+.gonia, .konia {
+    font-family: "Nova Square";
+    font-size: 2rem;;
+    font-weight: 900;
+}
+
+.selin, .paln {
+    font-family: "Nova Square";
+    font-size: 2rem;;
+    font-weight: 900;
+}
+
+/* Footer */
+footer {
+    background-color: #3655B3;
+    color: #C9C8C8;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+.copyright {
+    border-bottom: 1px solid #C9C8C8;;
+}
