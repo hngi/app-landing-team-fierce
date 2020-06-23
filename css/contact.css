@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.formdiv {
+  width: 508px;
+  height: 698px;
+  background: rgba(201, 200, 200, 0.1);
+}
+.mail {
+  width: 430.46px;
+  height: 80px;
+  border: 1px solid rgba(54, 85, 179, 0.5);
+  /* box-sizing: border-box; */
+}
+
+.textar {
+  width: 433px;
+  height: 205px;
+}
+
+.box1 {
+  width: 508px;
+  height: 65px;
+  background: rgba(54, 85, 179, 0.85);
+  margin-top: 6.75vh;
+}
+
+.align {
+  vertical-align: middle;
+}
